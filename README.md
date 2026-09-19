@@ -1,4 +1,4 @@
-<p align="center"><b>### BROCCOLI GAME</b></p>
+<p align="center"><b>BROCCOLI GAME</b></p>
 
 
 <p align="center">

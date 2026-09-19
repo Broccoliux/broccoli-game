@@ -1,4 +1,5 @@
-<p align="center"> ### BROCCOLI GAME </p>
+<p align="center"><b>### BROCCOLI GAME</b></p>
+
 
 <p align="center">
   <img width="1162" height="663" alt="Screenshot 2026-09-18 210719" src="https://github.com/user-attachments/assets/2c14f1f4-9e30-45f3-959e-542129e06988" />

@@ -1,6 +1,10 @@
-# broccoli-game
+# broccoli-game 
 
-THis is a simple speed run game,where we have  to complete the game in shortest time.
+<p align="center">
+  <img width="1162" height="663" alt="Screenshot 2026-09-18 210719" src="https://github.com/user-attachments/assets/2c14f1f4-9e30-45f3-959e-542129e06988" />
+</p>
+
+This is a simple speedrun game where you have to complete the game in the shortest time possible.
 
 Game have 3 biome.
 
